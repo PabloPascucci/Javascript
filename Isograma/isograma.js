@@ -1,5 +1,5 @@
 // Archivo JS para determinar si una palabra o frase es un isograma
-// Subido a GitHub: //
+// Subido a GitHub: 11/09/2025
 // Actualizado en GitHub: //
 
 console.log("Si ves este log, el JS esta enlazado");
