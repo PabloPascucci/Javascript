@@ -17,10 +17,10 @@ function esAnagrama(word1, word2) {
     return sortedWord1 === sortedWord2;
 }
 
-console.log(esAnagrama("Amor","Roma"));     // true
-console.log(esAnagrama("Hola", "Mundo"))    // false
-console.log(esAnagrama("Amiga", "Magia"))   // true
-console.log(esAnagrama("amor", "amor"))     // false
+console.log(esAnagrama("Amor","Roma"));
+console.log(esAnagrama("Hola", "Mundo"));
+console.log(esAnagrama("Amiga", "Magia"));
+console.log(esAnagrama("amor", "amor"));
 
 // =====================================================
 // slipt('') -> Convierte el string en array de caracteres
